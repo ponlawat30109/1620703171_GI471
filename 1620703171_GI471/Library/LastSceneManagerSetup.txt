@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Week1/Scenes/Week1.unity
+- path: Assets/GI471/Week5/Scenes/SampleScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
